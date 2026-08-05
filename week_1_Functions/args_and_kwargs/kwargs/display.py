@@ -6,7 +6,7 @@ def display_profile(**kwargs):
     #printing the enrire dictionary
     print("dictionary content:", kwargs)
 
-     #loopinf through the dictionary so as to access the key value pairs
+     #looping through the dictionary so as to access the key value pairs
     for key , value in kwargs.items():
         print (f"key:{key}, value:{value}")
 
