@@ -1,0 +1,42 @@
+Package Exercise
+
+Create this structure:
+
+packages/
+│
+├── main.py
+│
+└── school/
+    ├── students.py
+    └── teachers.py
+students.py
+
+Create a function:
+
+student_info()
+
+It should print:
+
+Student: Catherine
+Course: Computer Science
+teachers.py
+
+Create a function:
+
+teacher_info()
+
+It should print:
+
+Teacher: Mr. John
+Subject: Python
+main.py
+
+Your job is to:
+
+Import both modules from the school package.
+Call both functions.
+Make the program produce:
+Student: Catherine
+Course: Computer Science
+Teacher: Mr. John
+Subject: Python
